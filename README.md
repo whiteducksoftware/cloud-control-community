@@ -1,4 +1,4 @@
-|  ![](docs/img/cloud-control.png)   |   <h1> Welcome to the </br>**Cloud Control** </br> community and documentation </h1> |  
+|  <img src='docs/img/cloud-control.png' width='250' />   |   <h1> Welcome to the </br>**Cloud Control** </br> community and documentation </h1> |  
 | ---- | ---- |
 
 Thank you for your interest on our Azure Marketplace offering for
