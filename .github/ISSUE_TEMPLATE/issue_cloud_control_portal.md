@@ -1,5 +1,5 @@
 ---
-name: Cloud Control Portal - iussue
+name: Cloud Control Portal
 about: Create an issue to help us improve
 title: ''
 labels: ["Cloud Control Portal", "triage"]
