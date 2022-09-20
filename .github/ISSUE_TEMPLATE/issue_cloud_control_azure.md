@@ -1,15 +1,15 @@
-
 ---
-name: Cloud Control for Azure AD - issue
+name: Cloud Control for Azure AD
 about: Create an issue to help us improve
 title: ''
 labels: ["Cloud Control for Azure AD", "triage"]
-
+about: Create an issue to help us improve
 ---
 
-## Describe the bug
 
-A clear and concise description of what the bug is.
+## Describe the issue
+
+A clear and concise description of what the issue is about.
 
 ## To Reproduce
 
