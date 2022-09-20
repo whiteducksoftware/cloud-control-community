@@ -2,8 +2,9 @@
 | ---- | ---- |
 
 Thank you for your interest on our Azure Marketplace offering for
-* Cloud Control for Azure AD - Mobile App for Azure AD PIM Approvements
-* Cloud Control Portal - Self Service Portal for Azure
+
+* **Cloud Control for Azure AD** - Mobile App for Azure AD PIM Approvements
+* **Cloud Control Portal** - Self Service Portal for Azure
 
 Feel free to give us your feedback, make suggestions or let us discuss in our 📢 [discussions tab](../../discussions/).
 
