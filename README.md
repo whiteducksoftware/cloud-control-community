@@ -16,7 +16,10 @@ Tips or Best Practices are tagged with the 🏷 ["Tip" label](../../discussions?
 
 # Documentation
 
-Will be added shortly...
+## Architecture  - Cloud Control for Azure AD
+![Architecture  - Cloud Control for Azure AD](docs/img/wd-cloudcontrol-pim-app-architecture.png)
+
+More documentation will be added shortly...
 
 # Code of conduct
 
