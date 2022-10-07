@@ -8,11 +8,14 @@ Thank you for your interest on our Azure Marketplace offering for
 
 Feel free to give us your feedback, make suggestions or let us discuss in our 📢 [discussions tab](../../discussions/).
 
-To report issues or search for existing issues go to the 🔎 [issues tab](../../issues/).
+To report issues or search for existing issues go to the 🔎 [issues tab](../../issues/).  
 
-To get the latest news and announcements visit 💥 [Cloud Control - product page](https://whiteduck.de/produkte/cloud-control/).
+To get the latest news and announcements visit 💥 [Cloud Control - product page](https://whiteduck.de/produkte/cloud-control/).  
 
-Tips or Best Practices are tagged with the 🏷 ["Tip" label](../../discussions?discussions_q=label%3Atip).
+Tips or Best Practices are tagged with the 🏷 ["Tip" label](../../discussions?discussions_q=label%3Atip).  
+
+And please star this repo ⭐  
+
 
 # Documentation
 
