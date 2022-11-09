@@ -3,8 +3,8 @@
 
 Thank you for your interest on our Azure Marketplace offering for
 
-* **Cloud Control for Azure AD** - Mobile App for Azure AD PIM Approvements
-* **Cloud Control Portal** - Self Service Portal for Azure
+* **[Cloud Control for Azure AD](README-CloudControlAzureAD.md)** - Mobile App for Azure AD PIM Approvements
+* **[Cloud Control Portal](README-CloudControlPortal.md)** - Self Service Portal for Azure
 
 Feel free to give us your feedback, make suggestions or let us discuss in our 📢 [discussions tab](../../discussions/).
 
@@ -17,13 +17,7 @@ Tips or Best Practices are tagged with the 🏷 ["Tip" label](../../discussions?
 And please star this repo ⭐  
 
 
-# Documentation
 
-## Architecture  - Cloud Control for Azure AD
-![Architecture  - Cloud Control for Azure AD](docs/img/wd-cloudcontrol-pim-app-architecture.png)
-
-More documentation will be added shortly...
-
-# Code of conduct
+## Code of conduct
 
 This project adopts the [GitHub Community Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct).  
