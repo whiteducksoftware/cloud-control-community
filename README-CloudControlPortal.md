@@ -12,6 +12,8 @@ To get the latest news and announcements visit 💥 [Cloud Control - product pag
 
 Tips or Best Practices are tagged with the 🏷 ["Tip" label](../../discussions?discussions_q=label%3A"Cloud+Control+Portal"+label%3Atip).
 
+And please star this repo ⭐  
+
 # Documentation
 
 More documentation will be added shortly...
