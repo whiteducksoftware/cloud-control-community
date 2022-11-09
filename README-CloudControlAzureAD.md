@@ -12,6 +12,8 @@ To get the latest news and announcements visit 💥 [Cloud Control - product pag
 
 Tips or Best Practices are tagged with the 🏷 ["Tip" label](../../discussions?discussions_q=label%3A"Cloud+Control+for+Azure+AD"+label%3Atip).
 
+And please star this repo ⭐  
+
 ## Description
 
 Cloud Control for Azure AD is a mobile App for Active Directory (AD) Privileged Identity Management (PIM). The app enables administrators to approve requests for the access to resources in their organisation by smartphone.​
